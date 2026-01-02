@@ -169,6 +169,8 @@
 &ensp; &emsp;Initially, the value of X is 0.\
 &ensp; &emsp;Given an array of strings operations containing a list of operations, return the final value of X after performing all the operations.
 
+2235.Given two integers num1 and num2, return the sum of the two integers.
+
 2325.You are given the strings key and message, which represent a cipher key and a secret message, respectively. The steps to decode message \
 &ensp; &emsp;are as follows: \
 &ensp; &emsp;1.Use the first appearance of all 26 lowercase English letters in key as the order of the substitution table. \
